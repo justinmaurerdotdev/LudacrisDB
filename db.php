@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: LudacrisDB
-Plugin URI: https://github.com/justinmaurerdotdev/HyperDB
+Plugin URI: https://github.com/justinmaurerdotdev/LudacrisDB
 Description: An advanced database class that supports replication, failover, load balancing, and partitioning.
 Author: Automattic, Justin Maurer
 License: GPLv2 or later
