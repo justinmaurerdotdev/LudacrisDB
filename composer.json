@@ -1,7 +1,9 @@
 {
-    "name": "automattic/hyperdb",
-    "description": "HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning",
+    "name": "justinmaurerdotdev/ludacrisdb",
+    "description": "LudacrisDB: a maintained fork of Automattic's HyperDB, the WordPress db.php drop-in for replication, failover, load balancing, and partitioning. Consumers copy db.php into wp-content/ themselves.",
+    "type": "library",
     "license": "GPL-2.0-or-later",
+    "homepage": "https://github.com/justinmaurerdotdev/LudacrisDB",
     "require-dev": {
         "automattic/vipwpcs": "2.3.3",
         "dealerdirect/phpcodesniffer-composer-installer": "0.7.2",
